@@ -23,7 +23,8 @@ a {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.header-logo .logo-part {
+.header-logo .logo-part,
+.footer-logo .logo-part-footer {
   color: #2e2f42;
 }
 .nav-link {
@@ -111,4 +112,14 @@ a {
 }
 .list-three {
   background-color: #fff;
+}
+.paragraph-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.page-footer {
+  background-color: #2e2f42;
 }
