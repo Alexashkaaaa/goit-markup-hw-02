@@ -23,8 +23,7 @@ a {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.header-logo .logo-part,
-.footer-logo .logo-part-footer {
+.header-logo .logo-part {
   color: #2e2f42;
 }
 .nav-link {
@@ -122,4 +121,7 @@ a {
 }
 .page-footer {
   background-color: #2e2f42;
+}
+.footer-logo .logo-part-footer {
+  color: #f4f4fd;
 }
